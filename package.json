@@ -1,0 +1,16 @@
+{
+  "name": "typefighter",
+  "version": "1.0.0",
+  "description": "A custom JavaScript type checker using ESLint.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint test.js"
+  },
+  "author": "HTL",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.7.0",
+    "eslint-scope": "^8.0.2",
+    "espree": "^10.1.0"
+  }
+}
