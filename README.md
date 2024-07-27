@@ -100,7 +100,7 @@ npm test
 
 ## Contributing
 
-We welcome contributions to the `typefighter` project. If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request on GitHub.
+Contributions to the `typefighter` project are welcome. If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request on GitHub.
 
 ## License
 
